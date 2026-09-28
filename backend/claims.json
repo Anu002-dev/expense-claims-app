@@ -1,0 +1,69 @@
+{
+  "claims": [
+    {
+      "id": "CLM001",
+      "employee_name": "John Smith",
+      "expense_type": "Travel",
+      "amount": 450.0,
+      "expense_date": "2026-09-15",
+      "status": "Approved"
+    },
+    {
+      "id": "CLM002",
+      "employee_name": "Sarah Johnson",
+      "expense_type": "Meals",
+      "amount": 85.5,
+      "expense_date": "2026-09-20",
+      "status": "Approved"
+    },
+    {
+      "id": "CLM003",
+      "employee_name": "Michael Chen",
+      "expense_type": "Office Supplies",
+      "amount": 125.75,
+      "expense_date": "2026-09-22",
+      "status": "Approved"
+    },
+    {
+      "id": "CLM004",
+      "employee_name": "Emily Davis",
+      "expense_type": "Conference",
+      "amount": 1200.0,
+      "expense_date": "2026-09-10",
+      "status": "Approved"
+    },
+    {
+      "id": "CLM005",
+      "employee_name": "Robert Wilson",
+      "expense_type": "Travel",
+      "amount": 320.0,
+      "expense_date": "2026-09-18",
+      "status": "Rejected"
+    },
+    {
+      "id": "CLM006",
+      "employee_name": "Lisa Anderson",
+      "expense_type": "Software",
+      "amount": 199.99,
+      "expense_date": "2026-09-21",
+      "status": "Rejected"
+    },
+    {
+      "id": "CLM007",
+      "employee_name": "Test User",
+      "expense_type": "Travel",
+      "amount": 125.5,
+      "expense_date": "2026-09-28",
+      "status": "Rejected"
+    },
+    {
+      "id": "CLM007",
+      "employee_name": "Anusree ",
+      "expense_type": "Travel",
+      "amount": 50.0,
+      "expense_date": "2026-09-07",
+      "status": "Pending"
+    }
+  ],
+  "next_id": 7
+}
